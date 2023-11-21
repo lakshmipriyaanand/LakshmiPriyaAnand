@@ -21,6 +21,6 @@ Hi There! I'm Lakshmi Priya, an aspiring data scientist from India. I have been 
 🤝 **Connect with me**
 + [Linkedin](https://www.linkedin.com/in/lakshmi-priya-anand/)
 + [Kaggle](https://www.kaggle.com/lakshmipriyaanand/code)
-+ Gmail : alpriya2000@gmail.com
++ Gmail : er.lakshmipriyaanand@gmail.com
 
 🎈 Connect with me to learn more about India,TamilNadu,Food,Travel,Series,Movies too!
