@@ -11,10 +11,10 @@ Hi There! I'm Lakshmi Priya, an aspiring data scientist from India. I have been 
 
 🛠 **My Tools**
 + Databases: SQL, Excel
-+ Python: NumPy, Pandas, Sklearn, Scikit-Learn, Scipy.stats
++ Python: NumPy, Pandas, Sklearn, Scikit-Learn, Scipy.stats,Pytorch
 + Visualisation: Tableau, Matplotlib, Seaborn
 + Project Management:  JIRA,Confluence
-+ IDE: Jupyter Notebook
++ IDE: Jupyter Notebook , Google Colab
 
 👯 I’m looking to collaborate to learn and create new projects to grow up together.
 
